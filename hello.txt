@@ -1,1 +1,2 @@
 Hello Git
+This is another text appended to the one we have
