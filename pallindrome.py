@@ -7,6 +7,6 @@ def print_palindromes(start, end):
             print(num)
 
 # Example usage
-start = int(input(Enter start of range: ))
-end = int(input(Enter end of range: ))
+start = int(input("Enter start of range: "))
+end = int(input("Enter end of range: "))
 print_palindromes(start, end)
